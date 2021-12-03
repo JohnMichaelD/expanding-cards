@@ -15,8 +15,8 @@ This is the completed project to the first project from [50 Projects in 50 Days]
     - [Continued Development](#continued-development)
     - [Useful Resources](#useful-resources)
 - [Sources](#sources)
-    - Photo Sources
-    - Author
+    - [Photo Sources](#photo-sources)
+    - [Project Idea](#project-idea)
 
 ## Overview
 
